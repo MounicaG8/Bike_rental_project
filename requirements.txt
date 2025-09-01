@@ -1,0 +1,12 @@
+## requirements.txt
+
+
+pandas
+numpy
+matplotlib
+scikit-learn
+joblib
+lightgbm
+requests
+
+
